@@ -157,8 +157,8 @@ Global-Terrorism-EDA/
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
+**NAMAN RANA**
+- GitHub: [@namannnrana](https://github.com/namannnrana)
 
 ---
 
